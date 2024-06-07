@@ -30,6 +30,9 @@ herolmg {
 }
 
 .footer {
-    background: #373738
+    background: #373738;
 }
 
+ul {
+    padding: 0;
+}
